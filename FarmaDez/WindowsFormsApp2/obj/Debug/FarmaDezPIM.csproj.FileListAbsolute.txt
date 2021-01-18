@@ -1,0 +1,38 @@
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csprojAssemblyReference.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csproj.GenerateResource.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Controle Estoque.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Produto.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Controle Estoque.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Produto.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csproj.CopyComplete
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Login.LoginSystem.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Interface.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AlterarProduto.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CadastroProduto.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Excluir.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\Controle Estoque.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\Produto.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\Controle Estoque.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\bin\Debug\Produto.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csprojAssemblyReference.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AlterarProduto.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.CadastroProduto.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Excluir.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Interface.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\Login.LoginSystem.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csproj.GenerateResource.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\FarmaDezPIM.csproj.CopyComplete
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

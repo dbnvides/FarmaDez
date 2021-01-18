@@ -1,0 +1,12 @@
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Produto\bin\Debug\Produto.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Produto\bin\Debug\Produto.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Produto\obj\Debug\Produtos.csprojAssemblyReference.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Produto\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Produto\obj\Debug\Produto.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Produto\obj\Debug\Produto.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Produto\bin\Debug\Produto.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Produto\bin\Debug\Produto.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Produto\obj\Debug\Produtos.csprojAssemblyReference.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Produto\obj\Debug\Produtos.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Produto\obj\Debug\Produto.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Produto\obj\Debug\Produto.pdb

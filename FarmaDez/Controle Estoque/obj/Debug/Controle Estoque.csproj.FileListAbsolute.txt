@@ -1,0 +1,18 @@
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\bin\Debug\Controle Estoque.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\bin\Debug\Controle Estoque.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\bin\Debug\Produto.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\bin\Debug\Produto.pdb
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\obj\Debug\Controle Estoque.csprojAssemblyReference.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\obj\Debug\Controle Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\obj\Debug\Controle Estoque.csproj.CopyComplete
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\obj\Debug\Controle Estoque.dll
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Controle Estoque\obj\Debug\Controle Estoque.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\bin\Debug\Controle Estoque.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\bin\Debug\Controle Estoque.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\bin\Debug\Produto.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\bin\Debug\Produto.pdb
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\obj\Debug\Controle Estoque.csprojAssemblyReference.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\obj\Debug\Controle Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\obj\Debug\Controle Estoque.csproj.CopyComplete
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\obj\Debug\Controle Estoque.dll
+C:\Users\Dionisio\Desktop\BKP PIM FARMADEZ\FarmaDezPIM\Controle Estoque\obj\Debug\Controle Estoque.pdb

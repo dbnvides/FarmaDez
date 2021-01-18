@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5B758406-E17C-4DF4-8163-00AFE9F634CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp2</RootNamespace>
+    <AssemblyName>WindowsFormsApp2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AlterarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AlterarProduto.Designer.cs">
+      <DependentUpon>AlterarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CadastroProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroProduto.Designer.cs">
+      <DependentUpon>CadastroProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controle\Controle.cs" />
+    <Compile Include="DAL\Conexao.cs" />
+    <Compile Include="DAL\LoginDaoComandos.cs" />
+    <Compile Include="Excluir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir.Designer.cs">
+      <DependentUpon>Excluir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Interface.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Interface.Designer.cs">
+      <DependentUpon>Interface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginSystem.Designer.cs">
+      <DependentUpon>LoginSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AlterarProduto.resx">
+      <DependentUpon>AlterarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroProduto.resx">
+      <DependentUpon>CadastroProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir.resx">
+      <DependentUpon>Excluir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Interface.resx">
+      <DependentUpon>Interface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginSystem.resx">
+      <DependentUpon>LoginSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controle Estoque\Controle Estoque.csproj">
+      <Project>{995ba273-e994-45e4-ad88-94777996de6a}</Project>
+      <Name>Controle Estoque</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Produto\Produtos.csproj">
+      <Project>{7ecc029b-1de6-4ca8-a97a-b2e60d273543}</Project>
+      <Name>Produtos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SistemaLogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-glyph-black-icon-png_293805.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f9bb81e576c1a361c61a8c08945b2c48-search-icon-by-vexels.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_519216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cadastro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alterar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\excluir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\md_5aa8fcedbdd99.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

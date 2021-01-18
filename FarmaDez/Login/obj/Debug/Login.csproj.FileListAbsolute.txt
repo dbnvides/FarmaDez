@@ -1,0 +1,4 @@
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Login\obj\Debug\Login.Login.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Login\obj\Debug\Login.LoginSystem.resources
+C:\Users\Dionisio\source\repos\WindowsFormsApp2\Login\obj\Debug\Login.csprojAssemblyReference.cache
